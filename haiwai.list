@@ -1,5 +1,4 @@
 #海外服务
-
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
@@ -12,7 +11,6 @@ HOST-SUFFIX,movie.xeton.dev,海外服务
 HOST-SUFFIX,servers.xeton.dev,海外服务
 IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
-
 
 # > UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
@@ -878,7 +876,6 @@ IP-CIDR,208.43.0.0/16,海外服务
 
 # > Others
 HOST,jdsharedresourcescdn.azureedge.net,海外服务
-
 HOST-SUFFIX,account-paypal.info,海外服务
 HOST-SUFFIX,account-paypal.net,海外服务
 HOST-SUFFIX,account-paypal.org,海外服务
