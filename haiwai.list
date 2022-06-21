@@ -1984,10 +1984,10 @@ HOST-SUFFIX,theplatform.com,海外服务
 HOST-SUFFIX,tidal.com,海外服务
 HOST-SUFFIX,tidal.comdia,海外服务
 HOST-SUFFIX,tidalhifi.com,海外服务
-HOST-SUFFIX,tik-tokapi.com,海外服务
-HOST-SUFFIX,tiktok.com,海外服务
-HOST-SUFFIX,tiktokcdn.com,海外服务
-HOST-SUFFIX,tiktokv.com,海外服务
+#HOST-SUFFIX,tik-tokapi.com,海外服务
+#HOST-SUFFIX,tiktok.com,海外服务
+#HOST-SUFFIX,tiktokcdn.com,海外服务
+#HOST-SUFFIX,tiktokv.com,海外服务
 HOST-SUFFIX,ttvnw.net,海外服务
 HOST-SUFFIX,tv.apple.com,海外服务
 HOST-SUFFIX,tvb.com,海外服务
@@ -2001,7 +2001,7 @@ HOST-SUFFIX,viu.tv,海外服务
 HOST-SUFFIX,yb.uncn.jp,海外服务
 HOST-SUFFIX,youboranqs01.com,海外服务
 HOST-SUFFIX,ytimg.com,海外服务
-HOST-KEYWORD,-tiktokcdn-com,海外服务
+#HOST-KEYWORD,-tiktokcdn-com,海外服务
 HOST-KEYWORD,abematv.akamaized.net,海外服务
 HOST-KEYWORD,avoddashs,海外服务
 HOST-KEYWORD,bbcfmt,海外服务
