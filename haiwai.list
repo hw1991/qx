@@ -192,7 +192,7 @@ HOST-SUFFIX,aol.com,海外服务
 HOST-SUFFIX,aolcdn.com,海外服务
 HOST-SUFFIX,api.mixpanel.com,海外服务
 HOST-SUFFIX,api.termius.com,海外服务
-HOST-SUFFIX,api.tiktokv.com,海外服务
+#HOST-SUFFIX,api.tiktokv.com,海外服务
 HOST-SUFFIX,api.urbandictionary.com,海外服务
 HOST-SUFFIX,apigee.com,海外服务
 HOST-SUFFIX,apk-dl.com,海外服务
@@ -2060,7 +2060,7 @@ USER-AGENT,TIDAL*dia,海外服务
 USER-AGENT,TVB*,海外服务
 USER-AGENT,TVer-Release*,海外服务
 USER-AGENT,TaiwanGood*,海外服务
-USER-AGENT,TikTok*,海外服务
+#USER-AGENT,TikTok*,海外服务
 USER-AGENT,Viu*,海外服务
 USER-AGENT,ViuTV*,海外服务
 USER-AGENT,WeMusic*,海外服务
