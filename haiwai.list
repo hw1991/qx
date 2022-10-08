@@ -1,4 +1,5 @@
 #海外服务
+
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
@@ -11,6 +12,7 @@ HOST-SUFFIX,movie.xeton.dev,海外服务
 HOST-SUFFIX,servers.xeton.dev,海外服务
 IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
+
 
 # > UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
@@ -52,12 +54,16 @@ HOST-SUFFIX,steampowered.com,海外服务
 HOST-SUFFIX,steamstatic.com,海外服务
 
 # > TikTok
-#USER-AGENT,TikTok*,海外服务
-#HOST-SUFFIX,muscdn.com,海外服务
-#HOST-SUFFIX,musical.ly,海外服务
-#HOST-SUFFIX,tiktokv.com,海外服务
-#HOST-SUFFIX,tiktokcdn.com,海外服务
-#HOST-KEYWORD,-tiktokcdn-com,海外服务
+USER-AGENT,TikTok*,海外服务
+HOST-SUFFIX,muscdn.com,海外服务
+HOST-SUFFIX,musical.ly,海外服务
+HOST-SUFFIX,tiktokv.com,海外服务
+HOST-SUFFIX,tiktokcdn.com,海外服务
+HOST-KEYWORD,-tiktokcdn-com,海外服务
+HOST-SUFFIX,tiktok.com,海外服务
+HOST-SUFFIX,tik-tokapi.com,海外服务
+HOST-SUFFIX,api.tiktokv.com,海外服务
+
 
 # > Zooba
 USER-AGENT,battleroyale*,海外服务
@@ -79,10 +85,13 @@ IP-CIDR,104.22.3.179/22,海外服务
 IP-CIDR,104.22.2.179/22,海外服务
 IP-CIDR,91.108.56.123/22,海外服务
 IP-CIDR,101.32.104.41/22,海外服务
+IP-CIDR,104.21.18.63/22,海外服务
 HOST-SUFFIX,newpppp.com,海外服务
 HOST-SUFFIX,mudvod.tv,海外服务
 HOST-SUFFIX,biggggg.com,海外服务
 HOST-SUFFIX,telghub.com,海外服务
+HOST-SUFFIX,nivod.tv,海外服务
+HOST-SUFFIX,m1.nivod.tv,海外服务
 
 #Discord
 HOST-SUFFIX,discord.co,海外服务
@@ -192,7 +201,6 @@ HOST-SUFFIX,aol.com,海外服务
 HOST-SUFFIX,aolcdn.com,海外服务
 HOST-SUFFIX,api.mixpanel.com,海外服务
 HOST-SUFFIX,api.termius.com,海外服务
-#HOST-SUFFIX,api.tiktokv.com,海外服务
 HOST-SUFFIX,api.urbandictionary.com,海外服务
 HOST-SUFFIX,apigee.com,海外服务
 HOST-SUFFIX,apk-dl.com,海外服务
@@ -876,6 +884,7 @@ IP-CIDR,208.43.0.0/16,海外服务
 
 # > Others
 HOST,jdsharedresourcescdn.azureedge.net,海外服务
+
 HOST-SUFFIX,account-paypal.info,海外服务
 HOST-SUFFIX,account-paypal.net,海外服务
 HOST-SUFFIX,account-paypal.org,海外服务
@@ -1984,10 +1993,6 @@ HOST-SUFFIX,theplatform.com,海外服务
 HOST-SUFFIX,tidal.com,海外服务
 HOST-SUFFIX,tidal.comdia,海外服务
 HOST-SUFFIX,tidalhifi.com,海外服务
-#HOST-SUFFIX,tik-tokapi.com,海外服务
-#HOST-SUFFIX,tiktok.com,海外服务
-#HOST-SUFFIX,tiktokcdn.com,海外服务
-#HOST-SUFFIX,tiktokv.com,海外服务
 HOST-SUFFIX,ttvnw.net,海外服务
 HOST-SUFFIX,tv.apple.com,海外服务
 HOST-SUFFIX,tvb.com,海外服务
@@ -2001,7 +2006,7 @@ HOST-SUFFIX,viu.tv,海外服务
 HOST-SUFFIX,yb.uncn.jp,海外服务
 HOST-SUFFIX,youboranqs01.com,海外服务
 HOST-SUFFIX,ytimg.com,海外服务
-#HOST-KEYWORD,-tiktokcdn-com,海外服务
+HOST-KEYWORD,-tiktokcdn-com,海外服务
 HOST-KEYWORD,abematv.akamaized.net,海外服务
 HOST-KEYWORD,avoddashs,海外服务
 HOST-KEYWORD,bbcfmt,海外服务
@@ -2060,7 +2065,6 @@ USER-AGENT,TIDAL*dia,海外服务
 USER-AGENT,TVB*,海外服务
 USER-AGENT,TVer-Release*,海外服务
 USER-AGENT,TaiwanGood*,海外服务
-#USER-AGENT,TikTok*,海外服务
 USER-AGENT,Viu*,海外服务
 USER-AGENT,ViuTV*,海外服务
 USER-AGENT,WeMusic*,海外服务
