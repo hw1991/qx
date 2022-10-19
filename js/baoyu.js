@@ -16,7 +16,7 @@ https://asdxzdf.com:9703/#/?type=1&uid=70880936
 
 本地重写
 
-^http[s]?:\/\/[0-9.]+.(\w{2,8})?/api(/video/report_item?|/live/room/detail?|/video/related?|/video/detail).*$ url script-request-header baoyu.js
+^http[s]?:\/\/[0-9.]+.(\w{2,8})?/api(/video/report_item?|/live/room/detail?|/video/related?|/video/detail).*$ url script-request-header https://raw.githubusercontent.com/hw1991/qx/main/js/baoyu.js
 
 
 MitM
