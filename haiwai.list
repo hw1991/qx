@@ -1,5 +1,4 @@
 #海外服务
-
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
@@ -12,7 +11,6 @@ HOST-SUFFIX,movie.xeton.dev,海外服务
 HOST-SUFFIX,servers.xeton.dev,海外服务
 IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
-
 
 # > UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
@@ -64,7 +62,6 @@ HOST-SUFFIX,tiktok.com,海外服务
 HOST-SUFFIX,tik-tokapi.com,海外服务
 HOST-SUFFIX,api.tiktokv.com,海外服务
 
-
 # > Zooba
 USER-AGENT,battleroyale*,海外服务
 
@@ -92,6 +89,7 @@ HOST-SUFFIX,biggggg.com,海外服务
 HOST-SUFFIX,telghub.com,海外服务
 HOST-SUFFIX,nivod.tv,海外服务
 HOST-SUFFIX,m1.nivod.tv,海外服务
+HOST-SUFFIX,xunlangbot.com,海外服务
 
 #Discord
 HOST-SUFFIX,discord.co,海外服务
@@ -138,6 +136,13 @@ HOST-SUFFIX,gvt2.com,海外服务
 HOST-SUFFIX,youtu.be,海外服务
 HOST,youtubei.googleapis.com,海外服务
 HOST-SUFFIX,ytimg.com,海外服务
+
+#> YouTubeMusic
+HOST,music.youtube.com,海外服务
+USER-AGENT,*YouTubeMusic*,海外服务
+USER-AGENT,*com.google.ios.youtubemusic*,海外服务
+USER-AGENT,YouTubeMusic*,海外服务
+USER-AGENT,com.google.ios.youtubemusic*,海外服务
 
 #Twitter
 HOST-SUFFIX,ads-twitter.com,海外服务
