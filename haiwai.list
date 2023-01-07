@@ -1,4 +1,5 @@
 #海外服务
+
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
@@ -90,8 +91,10 @@ HOST-SUFFIX,telghub.com,海外服务
 HOST-SUFFIX,nivod.tv,海外服务
 HOST-SUFFIX,m1.nivod.tv,海外服务
 HOST-SUFFIX,xunlangbot.com,海外服务
+HOST-SUFFIX,bet365.com,海外服务
+IP-CIDR,5.226.179.10/22,海外服务
 
-#Discord
+# > Discord
 HOST-SUFFIX,discord.co,海外服务
 HOST-SUFFIX,discord.com,海外服务
 HOST-SUFFIX,discord.gg,海外服务
@@ -137,14 +140,14 @@ HOST-SUFFIX,youtu.be,海外服务
 HOST,youtubei.googleapis.com,海外服务
 HOST-SUFFIX,ytimg.com,海外服务
 
-#> YouTubeMusic
+# > YouTubeMusic
 HOST,music.youtube.com,海外服务
 USER-AGENT,*YouTubeMusic*,海外服务
 USER-AGENT,*com.google.ios.youtubemusic*,海外服务
 USER-AGENT,YouTubeMusic*,海外服务
 USER-AGENT,com.google.ios.youtubemusic*,海外服务
 
-#Twitter
+# > Twitter
 HOST-SUFFIX,ads-twitter.com,海外服务
 HOST-SUFFIX,periscope.tv,海外服务
 HOST-SUFFIX,pscp.tv,海外服务
@@ -889,7 +892,6 @@ IP-CIDR,208.43.0.0/16,海外服务
 
 # > Others
 HOST,jdsharedresourcescdn.azureedge.net,海外服务
-
 HOST-SUFFIX,account-paypal.info,海外服务
 HOST-SUFFIX,account-paypal.net,海外服务
 HOST-SUFFIX,account-paypal.org,海外服务
@@ -1636,7 +1638,7 @@ IP6-CIDR,2001:b28:f23c::/47,海外服务
 IP6-CIDR,2001:b28:f23f::/48,海外服务
 IP6-CIDR,2001:b28:f242::/48,海外服务
 
-#clubhouse
+# > clubhouse
 HOST,clubhouse.pubnub.com,海外服务
 HOST,clubhouseprod.s3.amazonaws.com,海外服务
 HOST-SUFFIX,clubhouseapi.com,海外服务
@@ -1692,7 +1694,7 @@ IP-CIDR,52.58.56.244/32,海外服务
 IP-CIDR,54.178.26.110/32,海外服务
 IP-CIDR,69.28.51.148/32,海外服务
 
-#clubhouse ip
+# > clubhouse ip
 HOST,ap-oversea-tls.agora.io,海外服务
 HOST,ap-oversea.agora.io,海外服务
 HOST,ap-oversea2.agora.io,海外服务
