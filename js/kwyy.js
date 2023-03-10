@@ -1,22 +1,22 @@
 // ==UserScript==
-// @ScriptName        酷我音乐[净化+VIP]
+// @ScriptName        酷我音乐、酷我音乐纯净版[ SVIP+净化 ]
 // @Attention         史上最全酷我音乐净化加VIP音乐畅听，已兼容酷我原版与酷我畅听版
 // @Author            @ddgksf2013
 // @WechatID          公众号墨鱼手记
 // @TgChannel         https://t.me/ddgksf2021
 // @Contribute        https://t.me/ddgksf2013_bot
 // @Feedback          📮 ddgksf2013@163.com 📮
-// @UpdateTime        2023-01-21
+// @UpdateTime        2023-02-20
 // @Attention         使用中若有问题请发邮件！
 // @Suitable          自行观看“# > ”注释内容
 // @Attention         如需引用请注明出处，谢谢合作！
-// @Version           V2.0.40
+// @Version           V2.0.42
 // @ScriptURL         https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
 // ==/UserScript==
 
 
 
-//本重写仅限本人使用，严谨传播
+//本重写仅限本人使用，严禁传播
 //解决酷我发热问题，在本地添加下面的分流
 //host-suffix, kuwo.cn, direct
 
