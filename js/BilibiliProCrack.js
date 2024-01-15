@@ -18,7 +18,7 @@
 [rewrite_local]
   
 # ～ Bilibili大会员（2024-01-14）@ddgksf2013
-^https?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player.*\.(v3|v2|v1).Play(URL|View|er).*$ url script-request-header https://raw.githubusercontent.com/hw1991/qx/main/js/BilibiliProCrack.js
+^https?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player.*\.(v3|v2|v1).Play(URL|View|er).*$ url script-request-header BilibiliProCrack.js
 
 
 [mitm] 
