@@ -1821,11 +1821,6 @@ HOST,foxsports01-i.akamaihd.net,海外服务
 HOST,foxsports02-i.akamaihd.net,海外服务
 HOST,foxsports03-i.akamaihd.net,海外服务
 HOST,gspe1-ssl.ls.apple.com,海外服务
-HOST,hboasia1-i.akamaihd.net,海外服务
-HOST,hboasia2-i.akamaihd.net,海外服务
-HOST,hboasia3-i.akamaihd.net,海外服务
-HOST,hboasia4-i.akamaihd.net,海外服务
-HOST,hboasia5-i.akamaihd.net,海外服务
 HOST,itvpnpmobile-a.akamaihd.net,海外服务
 HOST,kktv-theater.kk.stream,海外服务
 HOST,linear.tv.apple.com,海外服务
@@ -1911,14 +1906,6 @@ HOST-SUFFIX,googlevideo.com,海外服务
 HOST-SUFFIX,gvt2.com,海外服务
 HOST-SUFFIX,happyon.jp,海外服务
 HOST-SUFFIX,hayabusa.io,海外服务
-HOST-SUFFIX,hbo.com,海外服务
-HOST-SUFFIX,hboasia.com,海外服务
-HOST-SUFFIX,hbogo.com,海外服务
-HOST-SUFFIX,hbogoasia.com,海外服务
-HOST-SUFFIX,hbogoasia.hk,海外服务
-HOST-SUFFIX,hbomax.com,海外服务
-HOST-SUFFIX,hbomaxcdn.com,海外服务
-HOST-SUFFIX,hbonow.com,海外服务
 HOST-SUFFIX,himalaya.com,海外服务
 HOST-SUFFIX,hinet.net,海外服务
 HOST-SUFFIX,hjholdings.jp,海外服务
@@ -2044,10 +2031,6 @@ USER-AGENT,Disney*,海外服务
 USER-AGENT,Disney+*,海外服务
 USER-AGENT,FOX%20NOW*,海外服务
 USER-AGENT,FOXPlus*,海外服务
-USER-AGENT,HBO%20GO%20PROD%20HKG*,海外服务
-USER-AGENT,HBO%20NOW*,海外服务
-USER-AGENT,HBOAsia*,海外服务
-USER-AGENT,HBOMAX*,海外服务
 USER-AGENT,HWTVMobile*,海外服务
 USER-AGENT,Himalaya*,海外服务
 USER-AGENT,ITV_Player*,海外服务
